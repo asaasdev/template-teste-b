@@ -20,7 +20,7 @@ Ao revisar seu código vamos avaliar os seguintes pontos:
 O sistema proposto consiste em um cadastro simples com algumas regras de negócio:
 
 1. Deve ser possível incluir, editar, remover e listar cobranças.
-2. As informações contindas em uma cobrança são: nome, e-mail e CPF do cliente, data de vencimento, valor, forma de pagamento (Boleto Bancário ou Cartão de Crédito), status (Pendente, Paga ou Vencida), data de pagamento e descrição. Destas informações, são obrigatórias nome do cliente, CPF, valor, forma de pagamento e data de vencimento.
+2. As informações contidas em uma cobrança são: nome, e-mail e CPF do cliente, data de vencimento, valor, forma de pagamento (Boleto Bancário ou Cartão de Crédito), status (Pendente, Paga ou Vencida), data de pagamento e descrição. Destas informações, são obrigatórias nome do cliente, CPF, valor, forma de pagamento e data de vencimento.
 3. Considera-se removida a cobrança cujo atributo deleted seja igual a true, ou seja, ao remover uma cobrança o registro não deve ser apagado do banco, somente marcado como deletado. Uma vez removida, a cobrança não deve mais ser listada.
 4. Criar uma funcionalidade que permita marcar uma cobrança como paga e não permitir qualquer alteração ou remoção uma vez que isso tenha sido feito.
 5. Não permitir inserir uma cobrança com vencimento inferior à data de hoje.
