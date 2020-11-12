@@ -16,7 +16,7 @@ Ao revisar seu código vamos avaliar os seguintes pontos:
 * Uso correto do versionamento do git.
 * Documentação com instruções claras e objetivos para rodar o projeto (README.md).
 
-#### O que deve ser implementado
+## O que deve ser implementado
 O sistema proposto consiste em um cadastro simples com algumas regras de negócio:
 
 1. Deve ser possível incluir, editar, remover e listar cobranças.
