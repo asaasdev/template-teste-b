@@ -2,6 +2,7 @@
 ## Introdução
 
 Este teste é parte do processo seletivo aqui no Asaas para posições na Engenharia. Você precisará construir uma aplicação simples, utilizando a tecnologia ou framework com o qual se sente mais confortável, respeitando as regras de negócio propostas logo abaixo.
+
 Caso não consiga implementar alguma das regras propostas, não se preocupe, você pode compensar menos funcionalidades garantindo que o código das que implementar estejam muito bem feito.
 
 ## O que vamos avaliar
