@@ -29,3 +29,8 @@ O sistema proposto consiste em um cadastro simples com algumas regras de negóci
 8. A interface da aplicação deve ser em português.
 9. Incluir os seguintes filtros na listagem: nome ou e-mail do cliente em campo único, data de vencimento inicial e final, forma de pagamento e status. Esta listagem deve ser paginada.
 10. O código fonte deve ser escrito em inglês.
+
+## Enviando o projeto
+1. Apague o conteúdo deste arquivo e adicione as informações que julgar necessário, por exemplo, como rodar o projeto.
+2. Abra um PR apontando para a branch `main` deste repositório.
+3. Na descrição do PR, escreva o que achar relevante para quem for revisar seu código.
